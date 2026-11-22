@@ -1,0 +1,6 @@
+{
+  "name": "Şeffaf Kontrol",
+  "description": "Redmi ve HyperOS cihazlar için şeffaf buzlu cam kontrol merkezi katmanı ve hızlı ayar eklentisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
